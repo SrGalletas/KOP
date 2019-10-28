@@ -1,0 +1,11 @@
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\bin\Debug\ClassLibraryControlInput.dll
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\bin\Debug\ClassLibraryControlInput.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\bin\Debug\ClassLibraryControlSelected.dll
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\bin\Debug\ClassLibraryControlSelected.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\obj\Debug\ClassLibraryControlInput.csprojAssemblyReference.cache
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\obj\Debug\ClassLibraryControlInput.ControlTextBox.resources
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\obj\Debug\ClassLibraryControlInput.csproj.GenerateResource.cache
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\obj\Debug\ClassLibraryControlInput.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\obj\Debug\ClassLibraryControlInput.csproj.CopyComplete
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\obj\Debug\ClassLibraryControlInput.dll
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlInput\obj\Debug\ClassLibraryControlInput.pdb

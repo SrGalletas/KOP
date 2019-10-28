@@ -1,0 +1,7 @@
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\bin\Debug\ClassLibraryControlSelected.dll
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\bin\Debug\ClassLibraryControlSelected.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.ControlComboListBox.resources
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.csproj.GenerateResource.cache
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.dll
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.pdb

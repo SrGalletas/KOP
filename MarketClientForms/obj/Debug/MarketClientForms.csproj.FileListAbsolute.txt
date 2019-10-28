@@ -1,0 +1,17 @@
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\obj\Debug\MarketClientForms.csprojAssemblyReference.cache
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\obj\Debug\MarketClientForms.ProductForm.resources
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\obj\Debug\MarketClientForms.Properties.Resources.resources
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\obj\Debug\MarketClientForms.csproj.GenerateResource.cache
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\obj\Debug\MarketClientForms.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\MarketClientForms.exe.config
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\MarketClientForms.exe
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\MarketClientForms.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\ClassLibraryControlSelected.dll
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\ClassLibraryControlSelected.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\obj\Debug\MarketClientForms.csproj.CopyComplete
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\obj\Debug\MarketClientForms.exe
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\obj\Debug\MarketClientForms.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\ClassLibraryControlInput.dll
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\ClassLibraryControlInput.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\ClassLibraryControlOut.dll
+C:\Users\Mr.Cookie\source\repos\MarketClient\MarketClientForms\bin\Debug\ClassLibraryControlOut.pdb
