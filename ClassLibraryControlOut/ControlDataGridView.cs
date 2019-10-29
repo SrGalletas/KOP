@@ -11,17 +11,24 @@ namespace ClassLibraryControlOut
 {
     public partial class ControlDataGridView : UserControl
     {
+
         public ControlDataGridView()
         {
             InitializeComponent();
         }
-
-        public void LoadEnumeration(Type type)
+        
+        public void LoadData(Type type)
         {
+            dataGridView.Rows.Clear();
             foreach (var elem in Enum.GetValues(type))
             {
-                dataGridView.Rows.Add(elem.ToString());
+                dataGridView.Rows.Add();
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            LoadData(typeof(Type));
         }
     }
 }

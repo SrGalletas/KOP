@@ -27,6 +27,5 @@ namespace MarketClientForms
         {
             controlComboListBox.SelectedIndex = 0;
         }
-        
     }
 }

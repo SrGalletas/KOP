@@ -56,7 +56,7 @@
             // 
             // controlTextBox
             // 
-            this.controlTextBox.Location = new System.Drawing.Point(233, 37);
+            this.controlTextBox.Location = new System.Drawing.Point(233, 28);
             this.controlTextBox.Name = "controlTextBox";
             this.controlTextBox.Size = new System.Drawing.Size(198, 28);
             this.controlTextBox.TabIndex = 3;
@@ -72,16 +72,16 @@
             // 
             // controlDataGridView1
             // 
-            this.controlDataGridView1.Location = new System.Drawing.Point(233, 121);
+            this.controlDataGridView1.Location = new System.Drawing.Point(232, 59);
             this.controlDataGridView1.Name = "controlDataGridView1";
-            this.controlDataGridView1.Size = new System.Drawing.Size(209, 94);
-            this.controlDataGridView1.TabIndex = 4;
+            this.controlDataGridView1.Size = new System.Drawing.Size(250, 166);
+            this.controlDataGridView1.TabIndex = 0;
             // 
             // ProductForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(480, 237);
+            this.ClientSize = new System.Drawing.Size(494, 237);
             this.Controls.Add(this.controlDataGridView1);
             this.Controls.Add(this.controlTextBox);
             this.Controls.Add(this.label1);

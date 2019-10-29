@@ -1,8 +1,8 @@
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\bin\Debug\ClassLibraryControlOut.dll
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\bin\Debug\ClassLibraryControlOut.pdb
-C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\obj\Debug\ClassLibraryControlOut.csprojAssemblyReference.cache
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\obj\Debug\ClassLibraryControlOut.ControlDataGridView.resources
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\obj\Debug\ClassLibraryControlOut.csproj.GenerateResource.cache
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\obj\Debug\ClassLibraryControlOut.csproj.CoreCompileInputs.cache
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\obj\Debug\ClassLibraryControlOut.dll
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\obj\Debug\ClassLibraryControlOut.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlOut\obj\Debug\ClassLibraryControlOut.csprojAssemblyReference.cache
