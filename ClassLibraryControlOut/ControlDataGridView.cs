@@ -15,7 +15,13 @@ namespace ClassLibraryControlOut
         {
             InitializeComponent();
         }
-        
 
+        public void LoadEnumeration(Type type)
+        {
+            foreach (var elem in Enum.GetValues(type))
+            {
+                dataGridView.Rows.Add(elem.ToString());
+            }
+        }
     }
 }

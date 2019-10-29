@@ -5,3 +5,4 @@ C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Deb
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.csproj.CoreCompileInputs.cache
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.dll
 C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.pdb
+C:\Users\Mr.Cookie\source\repos\MarketClient\ClassLibraryControlSelected\obj\Debug\ClassLibraryControlSelected.csprojAssemblyReference.cache
